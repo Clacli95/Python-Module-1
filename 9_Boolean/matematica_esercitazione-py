@@ -1,0 +1,15 @@
+utente = "Quanti soldi ha?"
+
+utente_risp = 20
+
+print (utente, utente_risp)
+
+prezzo = "Quanto costano queste scarpe?"
+
+scarpe = 5.50
+
+print(prezzo, scarpe)
+
+output_spesa = "Posso comprare quante scarpe quindi?"
+
+print(output_spesa, utente_risp//scarpe)

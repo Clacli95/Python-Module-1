@@ -1,0 +1,1 @@
+print ("Questo file è stato creato da Clacli 2.0, un programma di calcolo in Python")

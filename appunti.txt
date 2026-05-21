@@ -1,0 +1,2 @@
+Questi sono i miei appunti.
+Oggi ho imparato a scrivere su un file in Python.

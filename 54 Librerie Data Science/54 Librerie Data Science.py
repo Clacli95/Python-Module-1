@@ -28,3 +28,4 @@ plt.ylabel("Valore")
 plt.title("Quadrati e Cubi")
 plt.legend()
 plt.show()
+
